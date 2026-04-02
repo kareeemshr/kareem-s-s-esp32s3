@@ -1,4 +1,4 @@
-Designator,Footprint,Quantity,Value,LCSC Part #,link
+Designator,Footprint,Quantity,Value,link
 "5V1, 5V2",PinHeader_1x01_P2.54mm_Vertical,2,Conn_01x01,https://www.lcsc.com/product-detail/C492400.html?spm=wm.fly.bg.0.xh&lcsc_vid=RAdeVAZfRwdXBFFfE1RfUF1WE1cNAwEFFVcPBFIERFQxVlNRQlBdUVdXR1dXUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXR08GEwkK
 "BOOT, RESET",SW_Push_SPST_NO_Alps_SKRK,2,SW_Push,https://www.lcsc.com/product-detail/C720477.html?s_z=s_Switches%257CTactile%2520Switches&spm=wm.fly.bg.0.xh&lcsc_vid=RAdeVAZfRwdXBFFfE1RfUF1WE1cNAwEFFVcPBFIERFQxVlNRQlBdUVFWQVlXVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktRTlNADxALGw%3D%3D
 BZ1,Buzzer_12x9.5RM7.6,1,Buzzer,https://www.lcsc.com/product-detail/C96256.html?s_z=n_12x9%2520buzzer&spm=wm.ssy.bg.1.xh&lcsc_vid=RAdeVAZfRwdXBFFfE1RfUF1WE1cNAwEFFVcPBFIERFQxVlNRQlBdUVFTRllXXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktQQlBADxALGw%3D%3D
