@@ -13,3 +13,8 @@ heres the pcb:<img width="1178" height="838" alt="image" src="https://github.com
 
 
 heres a 3d model:<img width="1175" height="776" alt="image" src="https://github.com/user-attachments/assets/0060dc43-a101-4d9c-b77c-44e9736f137a" />
+
+
+
+heres my zineeee page:<img width="1410" height="2000" alt="17751272148945433127986553241139" src="https://github.com/user-attachments/assets/518e37a7-eef2-42ef-98b3-739b72c43843" />
+
