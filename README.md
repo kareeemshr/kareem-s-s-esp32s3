@@ -6,6 +6,7 @@ this is supposed to be a personal devboard using the esp32s,it has LED's in the 
 
 **the cap touch plates are connected to io 4 and 8**
 
+this doesnt have to be built with pcba but i **STRONGLY** recommend it cus i didint design it with hand soldering in mind because i personally cant get sorurce all the parts on the board on my own without paying outrageous prices for shipping so pcba is cheaper for me
 heres the schem:<img width="1015" height="708" alt="image" src="https://github.com/user-attachments/assets/347c1481-1f53-4307-b351-3ab08a5f2ab2" />
 
 
