@@ -1,3 +1,6 @@
+**quick warning, the traces for the 5volt regulator are too small for what it's max output is. I also apologize for it having too many layers since I'm not exactly the best at routing(I suck at it alot) I used more layers than necessary :(**
+
+
 this is supposed to be a personal devboard using the esp32s,it has LED's in the shape of a heart,two cap touch plates and a buzzer.
 
 **the led's are connected to io 48**
